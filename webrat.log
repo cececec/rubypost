@@ -1,0 +1,623 @@
+# Logfile created on 2013-09-29 01:15:51 -0400 by logger.rb/31641
+REQUESTING PAGE: GET /posts with {} and HTTP headers {}
+REQUESTING PAGE: GET /posts with {} and HTTP headers {}
+REQUESTING PAGE: GET /posts with {} and HTTP headers {}
+REQUESTING PAGE: GET /posts with {} and HTTP headers {}
+REQUESTING PAGE: GET /posts with {} and HTTP headers {}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/7 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/7"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/10 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/10"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/13 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/13"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/16 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/16"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/19 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/19"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/22 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/22"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/22 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/22"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "authenticity_token"=>"/0hnAd4O8oOvMCOeGaSIp+nKBwgS5gm2AFA/4O6Yzu0=", "user"=>{"email"=>"admin1@ncsu.edu", "password"=>"admin1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "authenticity_token"=>"3My7xcuhhK8TKEM4M5jJ4uV2AOESSAYYKo0KiKnIp5U=", "category"=>{"name"=>"Foobar"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "authenticity_token"=>"CoAca2NNu3u9DLGOPz4JDZQvlYVeD/th5Sz2AAbtRxs=", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "authenticity_token"=>"P4NSO/9itSTCrPjKmPov0qxhBU+fDxN9O19K1wFGh9c=", "user"=>{"email"=>"super_admin@ncsu.edu", "password"=>"5uperpass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/"}
+REQUESTING PAGE: GET /categories/new with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: POST /categories with {"utf8"=>"✓", "authenticity_token"=>"BTPRfOtIMF6ermAM1ljWj+Y6soP5xe1mc42+moNFzUY=", "category"=>{"name"=>"Bazqux"}, "commit"=>"Create Category"} and HTTP headers {"HTTP_REFERER"=>"/categories/new"}
+REQUESTING PAGE: GET http://www.example.com/categories/4 with {} and HTTP headers {"HTTP_REFERER"=>"/categories"}
+REQUESTING PAGE: GET /categories with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/categories/4"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: POST /users/sign_in with {"utf8"=>"✓", "authenticity_token"=>"C7wvgJQs1pMYUwtveCJDCEUP/5R5vfE3r7MHTGugGBQ=", "user"=>{"email"=>"user1@ncsu.edu", "password"=>"user1pass"}, "commit"=>"Sign in"} and HTTP headers {"HTTP_REFERER"=>"/"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/users/sign_in"}
